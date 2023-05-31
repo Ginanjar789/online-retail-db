@@ -1,0 +1,1 @@
+DELETE FROM pelanggan WHERE id IN (1, 2, 3);
